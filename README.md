@@ -18,6 +18,8 @@ Um guia para iniciantes na área de cloud.
  -  [Youtube: Canais sobre Cloud](#-youtube-canais-sobre-cloud)
  -  [Frameworks e Melhores Práticas](#-frameworks-e-melhores-pr%C3%A1ticas)
  
+----------
+
 ## 📚Trilha de Estudo
 
 ### Eu devo fazer tirar certificação para começar a trabalhar em Cloud?
@@ -28,15 +30,17 @@ Atualmente, o mercado de trabalho em cloud está bem concorrido e as certificaç
 
 Os principais provedores de cloud sugerem caminhos (learning paths) baseados em funções.
 
-- **[AWS Learning Paths](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
+- [AWS Learning Paths](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
   
-- **[Microsoft Certifications](https://learn.microsoft.com/pt-br/credentials/)
+- [Microsoft Certifications](https://learn.microsoft.com/pt-br/credentials/)
 
--   **Vouchers**
+### **Vouchers**
 
 - Até Março/23 a Microsoft distribuía vouchers de 100% de desconto a todos os participantes dos Virtual Training Days, porém, agora somente através de eventos especiais, ou de 50% através do **[Cloud Skills Challenge](https://developer.microsoft.com/pt-BR/offers/30-days-to-learn-it)**. Algumas empresas e ONGs também distribuem esses vouchers através de parcerias com a Microsoft.
 
 - Assim como a Microsoft, a AWS também possui parcerias com ONGs e empresas para distribuição de vouchers. Além disso, dá para participar de challenges no AWS Emerging Talent para ganhar vouchers de certificação. Para participar do Emerging Talent é necessário realizar algum curso dentro do **[AWS Educate](https://aws.amazon.com/pt/education/awseducate/). Depois de alguns dias chegará um convite no seu email para se cadastrar no **[AWS Emerging Talent](https://aws-emergingtalent.influitive.com/users/sign_in)
+
+----------
 
 ### 🔒 Fundamentos de Cloud Computing
 
@@ -59,11 +63,14 @@ São habilidades comportamentais relacionadas a maneira como o profissional lida
  - Pensamento crítico
 
 ## 🗺 Eventos no Brasil
+
 Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas oportunidades.
 
   - **AWS**
     -   [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) (São Paulo)
     -   [AWS Cloud Experience](https://aws.amazon.com/pt/events/cloudexperience/) (Várias cidades)
+
+----------
 
 ## 📺 **Youtube**: Canais sobre Cloud
 		
@@ -73,8 +80,10 @@ Melhor maneira de aprender e fazer um excelente network que pode gerar ótimas o
 - [Andre Iacono](https://www.youtube.com/@IaconoAndre)
 - [KodeKloud](https://www.youtube.com/@KodeKloud)
 
+----------
+
 ## 🔐 Frameworks e Melhores Práticas
  
 -   [Scrum](https://aws.amazon.com/pt/what-is/scrum/#:~:text=O%20Scrum%20%C3%A9%20um%20framework,uma%20entrega%20eficiente%20de%20projetos.)  – Framework de gerenciamento que as equipes usam para se auto-organizar e trabalhar em direção a um objetivo em comum.
--   [Devops](https://attack.mitre.org/)  – É um conjunto de práticas, ferramentas e uma filosofia cultural que automatizam e integram os processos entre o desenvolvimento de software e as equipes de TI. 
+-   [Devops](https://aws.amazon.com/pt/devops/what-is-devops/)  – É um conjunto de práticas, ferramentas e uma filosofia cultural que automatizam e integram os processos entre o desenvolvimento de software e as equipes de TI. 
 
