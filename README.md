@@ -22,7 +22,7 @@ Um guia para iniciantes na área de cloud.
 
 ## 📚Trilha de Estudo
 
-### Eu devo fazer tirar certificação para começar a trabalhar em Cloud?
+### Eu devo tirar certificação para começar a trabalhar em Cloud?
 
 Atualmente, o mercado de trabalho em cloud está bem concorrido e as certificações podem ser um diferencial no seu currículo, porém, não é obrigatório. Por não termos um conselho de classe, não existe obrigatoriedade em possuir curso superior ou certificação, mas, se você não tiver experiência, como seu currículo se destacará dentre tantos outros?
 
