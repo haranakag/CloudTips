@@ -33,8 +33,8 @@ Clique nos ícones e você será redirecionado para a página de cada provedor.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    [<img src="https://skillicons.dev/icons?i=aws" />](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
-    [<img src="https://skillicons.dev/icons?i=azure" />](https://learn.microsoft.com/pt-br/credentials/)
+    [<img src="https://skillicons.dev/icons?i=aws"/>](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
+    [<img src="https://skillicons.dev/icons?i=azure"/>](https://learn.microsoft.com/pt-br/credentials/)
   </a>
 </p>
 
