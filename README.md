@@ -29,12 +29,15 @@ Atualmente, o mercado de trabalho em cloud está bem concorrido e as certificaç
 ## 📝 Guia de Certificações 
 
 Os principais provedores de cloud sugerem caminhos (learning paths) baseados em funções.
-Clique nos ícones e você será redirecionado para a página de cada provedor.
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    [<img src="https://skillicons.dev/icons?i=aws"/>](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
-    [<img src="https://skillicons.dev/icons?i=azure"/>](https://learn.microsoft.com/pt-br/credentials/)
+    <img src="https://skillicons.dev/icons?i=aws" />(https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure" />(https://learn.microsoft.com/pt-br/credentials/)
   </a>
 </p>
 
