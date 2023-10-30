@@ -10,6 +10,7 @@ Um guia para iniciantes na área de cloud.
 
 ## 📖 Conteúdo
 
+ -  [Carreiras em Cloud](#carreiras-em-cloud)
  -  [Trilha de Estudo](#trilha-de-estudo)
  -  [Guia de Certificações](#-guia-de-certifica%C3%A7%C3%B5es)
  -  [Fundamentos de Cloud Computing](#-fundamentos-de-cloud-computing)
@@ -20,13 +21,21 @@ Um guia para iniciantes na área de cloud.
  
 ----------
 
+##  Carreiras em Cloud
+
+- [Analista de Suporte Técnico em Cloud]: A carreira de Analista de Suporte é a porta de entrada para a área de TI. 
+- [Solutions Architect]: Desenha e implementa recursos e ferramentas para atender as necessidades do negócio.
+- [Cloud Engineer]: Responsável por projetar, implementar e gerenciar soluções em nuvem para empresas.
+- [Cloud Security Engineer]: Responsável por projetar, implementar e gerenciar soluções de segurança em nuvem.
+- [Cloud Data Engineer] Automatiza a coleta e processamento de dados estruturados e semi-estruturados, monitora a performance do pipeline de dados.
+
 ## 📚Trilha de Estudo
 
 ### Eu devo tirar certificação para começar a trabalhar em Cloud?
 
 Atualmente, o mercado de trabalho em cloud está bem concorrido e as certificações podem ser um diferencial no seu currículo, porém, não é obrigatório. Por não termos um conselho de classe, não existe obrigatoriedade em possuir curso superior ou certificação, mas, se você não tiver experiência, como seu currículo se destacará dentre tantos outros?
 
-Ademais, o estudo para alguma certificação proporciona um caminho já estruturado para cada tipo de função que se deseja trilhar. Este é um ponto muito importante, pois ajuda a economizar tempo procurando o caminho e os materiais para seguir.
+Ademais, o estudo para alguma certificação proporciona um caminho já estruturado para cada tipo de função que se deseja trilhar. Este é um ponto muito importante, pois ajuda a economizar tempo procurando o caminho e os materiais para seguir. Resumindo: a certificação valida suas habilidades, aumenta sua empregabilidade e proporciona um conjunto de conhecimentos prontos para serem aplicados.
 
 ## 📝 Guia de Certificações 
 
@@ -44,7 +53,7 @@ Os principais provedores de cloud sugerem caminhos (learning paths) baseados em 
 
 - Até Março/23 a Microsoft distribuía vouchers de 100% de desconto a todos os participantes dos Virtual Training Days, porém, agora somente através de eventos especiais, ou de 50% através do **[Cloud Skills Challenge](https://developer.microsoft.com/pt-BR/offers/30-days-to-learn-it)**. Algumas empresas e ONGs também distribuem esses vouchers através de parcerias com a Microsoft.
 
-- Assim como a Microsoft, a AWS também possui parcerias com ONGs e empresas para distribuição de vouchers. Além disso, dá para participar de challenges no AWS Emerging Talent para ganhar vouchers de certificação. Para participar do Emerging Talent é necessário realizar algum curso dentro do **[AWS Educate](https://aws.amazon.com/pt/education/awseducate/). Depois de alguns dias chegará um convite no seu email para se cadastrar no **[AWS Emerging Talent](https://aws-emergingtalent.influitive.com/users/sign_in)
+- Assim como a Microsoft, a AWS também possui parcerias com ONGs e empresas para distribuição de vouchers. Além disso, dá para participar de challenges no AWS Emerging Talent para ganhar vouchers de certificação. Para participar do Emerging Talent é necessário realizar algum curso dentro do [AWS Educate](https://aws.amazon.com/pt/education/awseducate/). Depois de alguns dias chegará um convite no seu email para se cadastrar no [AWS Emerging Talent](https://aws-emergingtalent.influitive.com/users/sign_in)
 
 ----------
 
@@ -53,8 +62,8 @@ Os principais provedores de cloud sugerem caminhos (learning paths) baseados em 
 Existem alguns conhecimentos básicos que são essenciais para te auxiliar tanto no caminho das certificações, quanto no dia-a-dia como profissional em cloud computing.
 
 Para começar, é interessante adquirir conhecimento nas seguintes áreas (o link te redireciona a cursos gratuitos):
-    -   [Redes de computadores](https://www.cursoemvideo.com/blog/dicas/curso-gratis-de-rede-de-computadores/)
-    -   [Linux](https://www.cursoemvideo.com/curso/linux/)
+  -   [Redes de computadores](https://www.cursoemvideo.com/blog/dicas/curso-gratis-de-rede-de-computadores/)
+  -   [Linux](https://www.cursoemvideo.com/curso/linux/)
 
 ----------
 ## 📣Soft skills
