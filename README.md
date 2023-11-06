@@ -3,21 +3,21 @@
 
 Um guia para iniciantes na área de cloud.
 
-*Última atualização: 29/10/2023
+*Última atualização: 05/11/2023
 
 <img src="12071198_SL-101820-36860-11.jpg">
 <a href="https://br.freepik.com/vetores-gratis/conceito-de-tecnologia-de-wireframe-poligonal-de-computacao-em-nuvem_12071198.htm#query=cloud%20computing&position=1&from_view=search&track=ais">Imagem de starline</a> no Freepik
 
 ## 📖 Conteúdo
 
- -  [Carreiras em Cloud](#carreiras-em-cloud)
- -  [Trilha de Estudo](#trilha-de-estudo)
- -  [Guia de Certificações](#-guia-de-certifica%C3%A7%C3%B5es)
- -  [Fundamentos de Cloud Computing](#-fundamentos-de-cloud-computing)
- -  [Soft skills](#soft-skills)
- -  [Eventos no Brasil](#-eventos-no-brasil)
- -  [Youtube: Canais sobre Cloud](#-youtube-canais-sobre-cloud)
- -  [Frameworks e Melhores Práticas](#-frameworks-e-melhores-pr%C3%A1ticas)
+ - [Carreiras em Cloud](#carreiras-em-cloud)
+ - [Trilha de Estudo](#trilha-de-estudo)
+ - [Guia de Certificações](#-guia-de-certifica%C3%A7%C3%B5es)
+ - [Fundamentos de Cloud Computing](#-fundamentos-de-cloud-computing)
+ - [Soft skills](#soft-skills)
+ - [Eventos no Brasil](#-eventos-no-brasil)
+ - [Youtube: Canais sobre Cloud](#-youtube-canais-sobre-cloud)
+ - [Frameworks e Melhores Práticas](#-frameworks-e-melhores-pr%C3%A1ticas)
  
 ----------
 
@@ -28,6 +28,12 @@ Um guia para iniciantes na área de cloud.
 - [Cloud Engineer]: Responsável por projetar, implementar e gerenciar soluções em nuvem para empresas.
 - [Cloud Security Engineer]: Responsável por projetar, implementar e gerenciar soluções de segurança em nuvem.
 - [Cloud Data Engineer] Automatiza a coleta e processamento de dados estruturados e semi-estruturados, monitora a performance do pipeline de dados.
+
+- Além deste, ainda temos diversas outras carreiras menos conhecidas, como por exemplo:
+  - FinOps - Gerenciamento financeiro da nuvem.
+  - Cloud Policy Analyst - Profissional que gerencia as políticas da nuvem.
+  - IAM Engineer - Gestor de Acessos e Identidades
+  - Cloud Application Architect - Arquiteto de Aplicações em cloud.
 
 ## 📚Trilha de Estudo
 
@@ -107,12 +113,16 @@ Networking que pode gerar ótimas oportunidades.
 - [Tech With Lucy](https://www.youtube.com/@TechwithLucy)
 - [Andre Iacono](https://www.youtube.com/@IaconoAndre)
 - [KodeKloud](https://www.youtube.com/@KodeKloud)
-
+- [Professora Nattane](https://www.youtube.com/@ProfessoraNattane) - Fala sobre Redes de Computadores, informações essenciais para entender cloud.
 ----------
 
 ## 🔐 Frameworks e Melhores Práticas
  
 -   [Scrum](https://aws.amazon.com/pt/what-is/scrum/#:~:text=O%20Scrum%20%C3%A9%20um%20framework,uma%20entrega%20eficiente%20de%20projetos.)  – Framework de gerenciamento que as equipes usam para se auto-organizar e trabalhar em direção a um objetivo em comum.
+  - Carreiras ligadas diretamente ao Scrum:
+    - Scrum Master
+    - Product Owner (PO)
 
--   [Devops](https://aws.amazon.com/pt/devops/what-is-devops/)  – É um conjunto de práticas, ferramentas e uma filosofia cultural que automatizam e integram os processos entre o desenvolvimento de software e as equipes de TI. 
-
+-   [Devops](https://aws.amazon.com/pt/devops/what-is-devops/)  
+  – É um conjunto de práticas, ferramentas e uma filosofia cultural que automatizam e integram os processos entre o desenvolvimento de software e as equipes de TI.
+  - [Roadmap](https://roadmap.sh/devops)
